@@ -5,4 +5,3 @@ https://m.youtube.com/@ThinkingandTinkering
 - [1624 Thermoelectric Generators Have Just Made A Huge Leap Forward](https://youtu.be/0QByXZ7XyVE)
 - [1618 Putting A Thermo Electric Generator On Solar Panels](https://youtu.be/LWPljHcMjNc)
 - [1416 How To Make A Very Different DIY Thermoelectric Generator For A Rocket Stove](https://youtu.be/6-egm7KIj4Y)
-- [1409 Using A Rocket Stove To Generate Electricity - The Plan](https://youtu.be/GeBU1FEYxlc)
