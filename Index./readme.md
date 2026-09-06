@@ -1,0 +1,1 @@
+- [TEGnology thermoelectric Energy Harvesting for self-powered Sensor Network](https://youtu.be/LLh_2Xu-F4Y)
